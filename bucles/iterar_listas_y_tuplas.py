@@ -41,3 +41,5 @@ for numero in numeros:
     print(f"Ejecutando el ultimo bucle, valor actual: {numero}")
 else:
     print("El bucle termmino")
+
+# Todo lo anterior funciona tambien para tuplas
