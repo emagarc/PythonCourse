@@ -1,0 +1,16 @@
+Los datos son:
+Nombre: Emanuel
+Apellido: Garcia
+--------
+Nombre: Pedro
+Apellido: Hernandez
+--------
+Nombre: Camila
+Apellido: De Petris
+--------
+Nombre: Joaquin
+Apellido: Fernandez
+--------
+Nombre: Roberto
+Apellido: Gonzalez
+--------
