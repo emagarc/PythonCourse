@@ -71,3 +71,11 @@ javier = EmpleadoArtista("Javier", 51, "argentino", "Pintor", 1000, "INCA")
 
 print(javier.mostrar_habilidad())
 print(javier.presentarse())
+
+# Verificamos si EmpleadoArtista es una subclase de Artista
+
+herencia = issubclass(EmpleadoArtista, Artista)
+print(herencia)  # True
+
+instancia = isinstance(javier, EmpleadoArtista)
+print(instancia)  # True
