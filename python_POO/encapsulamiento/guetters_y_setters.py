@@ -22,5 +22,7 @@ print(nombre)
 # Seteamos su nuevo nombre
 
 emanuel.set_nombre("Andres")
+
+# Actualizamos el valos de la variable nombre y comprobamos que se actualizo el nombre del objeto emanuel
 nombre = emanuel.get_nombre()
 print(nombre)
